@@ -11,8 +11,8 @@
   "permissions": [
    "activeTab"
    ],
-   "content_scripts" :[
+   "content_scripts": {
        "matches": ["*reddit.com/*"],
        "js": ["gifChecker.js"]
-   ]
+}
 }

@@ -9,15 +9,13 @@
     "content_scripts": [
         {
             "matches": [
-                "*://reddit.com/*"
+               "*://*.reddit.com/*"
             ],
             "js": [
-                "script.js"
+                "contentscript.js"
             ],
             "run_at": "document_end"
         }
-    ],
-    "permissions": [
-    "tabs", "*://reddit.com/*", "activeTab"
-  ]
+    ]
+
 }

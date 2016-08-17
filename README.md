@@ -1,6 +1,9 @@
 # YoutubeNotGif
 Chrome extention that marks all youtube links as [YOUTUBE] on reddit  
 
+##Install
+Install YoutubeNotGif from [Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-not-gif/aadpjpjgnjejmneflbdcckablmkjgken) or head over to the [Releases](https://github.com/kushagharahi/YoutubeNotGif/releases) tab to download the latest .crx
+
 ##Release
 Release 0.0.1
 

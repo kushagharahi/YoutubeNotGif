@@ -1,5 +1,5 @@
 # YoutubeNotGif
-![Logo](https://github.com/kushagharahi/YoutubeNotGif/blob/master/Icons/128x128.png?raw=true)
+![Logo](https://github.com/kushagharahi/YoutubeNotGif/blob/master/icons/128x128.png?raw=true)
 Chrome extention that marks all youtube links as [YOUTUBE] on reddit  
 
 ##Install
@@ -10,6 +10,7 @@ Release 0.0.2
 
 ##Preview  
 ![Preview 0.0.2](https://github.com/kushagharahi/YoutubeNotGif/blob/master/screenshots/preview.png?raw=true)
+---
 ![Preview 0.0.2](https://github.com/kushagharahi/YoutubeNotGif/blob/master/screenshots/screenshot.png?raw=true)
 
 ##Motivation

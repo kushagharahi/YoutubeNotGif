@@ -2,10 +2,12 @@
     "manifest_version": 2,
     "name": "Youtube Not Gif",
     "description": "This extension will marks all youtube links as [YOUTUBE] on reddit",
-    "version": "0.0.1",
-    "browser_action": {
-        "default_icon": "icon.png"
-    },
+    "version": "0.0.2",
+    "icons": { 
+        "16": "16x16.png",
+        "48": "48x48.png",
+        "128": "128x128.png" 
+        },
     "options_ui": {
 	"page": "options.html",
 	"chrome_style": true
